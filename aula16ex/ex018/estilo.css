@@ -18,6 +18,9 @@ section{
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.233) ;
 }
+select#flista{
+    width: 150px;
+}
 
 div#res{
     text-align: center;
